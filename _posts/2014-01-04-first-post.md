@@ -5,4 +5,4 @@ image: /img/hello_world.jpeg
 ---
 
 This is my first post, how exciting!
-$x^2$
+$$x^2=\sqrt 2$$
